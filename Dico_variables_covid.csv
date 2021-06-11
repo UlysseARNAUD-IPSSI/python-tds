@@ -1,0 +1,676 @@
+,Code,Signification,Question_Better
+0,1,Mardi 26 Mai,JOURV7
+1,2,Mercredi 27 Mai,JOURV7
+2,3,Jeudi 28 Mai,JOURV7
+3,4,Vendredi 29 Mai,JOURV7
+4,5,Samedi 30 Mai,JOURV7
+5,6,Dimanche 31 Mai,JOURV7
+6,1,Ordinateur,DEVICE
+7,2,Smartphone,DEVICE
+8,3,Tablette,DEVICE
+9,4,SmartTV,DEVICE
+10,5,Aucun,DEVICE
+11,1,Homme,SEXE
+12,2,Femme,SEXE
+13,1,18 à 24 ans,AGE2
+14,2,25 à 29 ans,AGE2
+15,3,30 à 34 ans,AGE2
+16,4,35 à 39 ans,AGE2
+17,5,40 à 44 ans,AGE2
+18,6,45 à 49 ans,AGE2
+19,7,50 à 54 ans,AGE2
+20,8,55 à 59 ans,AGE2
+21,9,60 à 64 ans,AGE2
+22,10,65 ans et plus,AGE2
+23,1,Ain,DEP
+24,2,Aisne,DEP
+25,3,Allier,DEP
+26,4,Alpes-de-Haute-Provence,DEP
+27,5,Hautes-Alpes,DEP
+28,6,Alpes-Maritimes,DEP
+29,7,Ardèche,DEP
+30,8,Ardennes,DEP
+31,9,Ariège,DEP
+32,10,Aube,DEP
+33,11,Aude,DEP
+34,12,Aveyron,DEP
+35,13,Bouches-du-Rhône,DEP
+36,14,Calvados,DEP
+37,15,Cantal,DEP
+38,16,Charente,DEP
+39,17,Charente-Maritime,DEP
+40,18,Cher,DEP
+41,19,Corrèze,DEP
+42,20,Corse-du-Sud,DEP
+43,21,Côte-d'Or,DEP
+44,22,Côtes-d'Armor,DEP
+45,23,Creuse,DEP
+46,24,Dordogne,DEP
+47,25,Doubs,DEP
+48,26,Drôme,DEP
+49,27,Eure,DEP
+50,28,Eure-et-Loir,DEP
+51,29,Finistère,DEP
+52,30,Gard,DEP
+53,31,Haute-Garonne,DEP
+54,32,Gers,DEP
+55,33,Gironde,DEP
+56,34,Hérault,DEP
+57,35,Ille-et-Vilaine,DEP
+58,36,Indre,DEP
+59,37,Indre-et-Loire,DEP
+60,38,Isère,DEP
+61,39,Jura,DEP
+62,40,Landes,DEP
+63,41,Loir-et-Cher,DEP
+64,42,Loire,DEP
+65,43,Haute-Loire,DEP
+66,44,Loire-Atlantique,DEP
+67,45,Loiret,DEP
+68,46,Lot,DEP
+69,47,Lot-et-Garonne,DEP
+70,48,Lozère,DEP
+71,49,Maine-et-Loire,DEP
+72,50,Manche,DEP
+73,51,Marne,DEP
+74,52,Haute-Marne,DEP
+75,53,Mayenne,DEP
+76,54,Meurthe-et-Moselle,DEP
+77,55,Meuse,DEP
+78,56,Morbihan,DEP
+79,57,Moselle,DEP
+80,58,Nièvre,DEP
+81,59,Nord,DEP
+82,60,Oise,DEP
+83,61,Orne,DEP
+84,62,Pas-de-Calais,DEP
+85,63,Puy-de-Dôme,DEP
+86,64,Pyrénées-Atlantiques,DEP
+87,65,Hautes-Pyrénées,DEP
+88,66,Pyrénées-Orientales,DEP
+89,67,Bas-Rhin,DEP
+90,68,Haut-Rhin,DEP
+91,69,Rhône,DEP
+92,70,Haute-Saône,DEP
+93,71,Saône-et-Loire,DEP
+94,72,Sarthe,DEP
+95,73,Savoie,DEP
+96,74,Haute-Savoie,DEP
+97,75,Paris,DEP
+98,76,Seine-Maritime,DEP
+99,77,Seine-et-Marne,DEP
+100,78,Yvelines,DEP
+101,79,Deux-Sèvres,DEP
+102,80,Somme,DEP
+103,81,Tarn,DEP
+104,82,Tarn-et-Garonne,DEP
+105,83,Var,DEP
+106,84,Vaucluse,DEP
+107,85,Vendée,DEP
+108,86,Vienne,DEP
+109,87,Haute-Vienne,DEP
+110,88,Vosges,DEP
+111,89,Yonne,DEP
+112,90,Territoire de Belfort,DEP
+113,91,Essonne,DEP
+114,92,Hauts-de-Seine,DEP
+115,93,Seine-Saint-Denis,DEP
+116,94,Val-de-Marne,DEP
+117,95,Val-d'Oise,DEP
+118,96,Haute-Corse,DEP
+119,1,Ile-de-France,REG12
+120,2,Centre-Val de Loire,REG12
+121,3,Bourgogne-Franche-Comté,REG12
+122,4,Normandie,REG12
+123,5,Hauts-de-France,REG12
+124,6,Grand-Est,REG12
+125,7,Pays de la Loire,REG12
+126,8,Bretagne,REG12
+127,9,Nouvelle Aquitaine,REG12
+128,10,Occitanie,REG12
+129,11,Auvergne-Rhône-Alpes,REG12
+130,12,PACA + Corse,REG12
+131,1,Rural,AGGLO5
+132,2,2.000 à 19.999 hab.,AGGLO5
+133,3,20.000 à 99.999 hab.,AGGLO5
+134,4,100.000 hab. et plus,AGGLO5
+135,5,Agglomération de Paris,AGGLO5
+136,1,Salarié(e) à plein temps,EMP
+137,2,Salarié(e) à temps partiel,EMP
+138,3,Travaille à mon compte,EMP
+139,4,"Ne travaille pas actuellement, mais en recherche d'emploi",EMP
+140,5,Ne travaille pas actuellement et ne recherche pas d’emploi / en incapacité de travail,EMP
+141,6,Homme/femme au foyer,EMP
+142,7,Retraité(e),EMP
+143,8,Etudiant(e)/élève,EMP
+144,1,Agriculteurs exploitants,PCSI
+145,2,Professions Indépendantes,PCSI
+146,3,Cadres Supérieurs,PCSI
+147,4,Professions intermédiaires,PCSI
+148,5,Employés,PCSI
+149,6,Ouvriers,PCSI
+150,7,Retraités,PCSI
+151,8,Inactifs,PCSI
+152,1,Célibataire,MAR
+153,2,En union libre,MAR
+154,3,Marié(e),MAR
+155,4,Séparé(e),MAR
+156,5,Divorcé(e),MAR
+157,6,Veuf/ve,MAR
+158,7,Pacsé(e),MAR
+159,1,L’épidémie de coronavirus,A0_0
+160,2,Le pouvoir d’achat,A0_0
+161,3,Le changement climatique,A0_0
+162,4,Les inégalités sociales,A0_0
+163,5,Le chômage,A0_0
+164,6,Les déficits publics et de la dette de l'Etat,A0_0
+165,7,L’éducation,A0_0
+166,8,Le système de santé,A0_0
+167,9,L’insécurité,A0_0
+168,10,Le terrorisme,A0_0
+169,11,(NR),A0_0
+170,1,L’épidémie de coronavirus,A0_1
+171,2,Le pouvoir d’achat,A0_1
+172,3,Le changement climatique,A0_1
+173,4,Les inégalités sociales,A0_1
+174,5,Le chômage,A0_1
+175,6,Les déficits publics et de la dette de l'Etat,A0_1
+176,7,L’éducation,A0_1
+177,8,Le système de santé,A0_1
+178,9,L’insécurité,A0_1
+179,10,Le terrorisme,A0_1
+180,11,(NR),A0_1
+181,1,L’épidémie de coronavirus,A0_2
+182,2,Le pouvoir d’achat,A0_2
+183,3,Le changement climatique,A0_2
+184,4,Les inégalités sociales,A0_2
+185,5,Le chômage,A0_2
+186,6,Les déficits publics et de la dette de l'Etat,A0_2
+187,7,L’éducation,A0_2
+188,8,Le système de santé,A0_2
+189,9,L’insécurité,A0_2
+190,10,Le terrorisme,A0_2
+191,11,(NR),A0_2
+192,1,Oui,A1
+193,2,Non,A1
+194,3,(NR),A1
+195,1,J’ai été diagnostiqué positif par un test de dépistage,A2
+196,2,J’ai ou j’ai eu les symptômes caractéristiques de la maladie et j’ai contacté un médecin,A2
+197,3,J’ai ou j’ai eu les symptômes caractéristiques de la maladie mais je n’ai pas contacté de médecin,A2
+198,4,Je n’ai pas eu de symptômes caractéristiques de la maladie mais j’ai été en contact proche avec au moins une personne diagnostiquée positive par un test de dépistage,A2
+199,5,Je n’ai pas eu de symptômes caractéristiques de la maladie mais j’ai été en contact proche avec au moins une personne qui pense avoir été infectée par le coronavirus,A2
+200,6,Je ne connais pas assez bien les symptômes pour répondre,A2
+201,7,(NR),A2
+202,1,J'ai été diagnostiqué négatif par un test de dépistage,A2BIS
+203,2,Je n'ai pas eu de symptômes,A2BIS
+204,3,J'ai eu des symptômes mais mon médecin m'a dit que ce n'était pas le coronavirus,A2BIS
+205,4,"J'ai eu des symptômes mais j'ai considéré qu'il ne s'agissait pas du coronavirus, sans en parler à mon médecin",A2BIS
+206,5,(NR),A2BIS
+207,1,"Oui, j’ai la certitude d’avoir été en contact avec au moins une personne au sein de mon foyer",A3_0
+208,2,"Oui, j’ai la certitude d’avoir été en contact avec au moins une personne en dehors de mon foyer",A3_0
+209,3,"Non, je n’ai pas la certitude d’avoir été en contact avec au moins une personne",A3_0
+210,4,(NR),A3_0
+211,1,"Oui, j’ai la certitude d’avoir été en contact avec au moins une personne au sein de mon foyer",A3_1
+212,2,"Oui, j’ai la certitude d’avoir été en contact avec au moins une personne en dehors de mon foyer",A3_1
+213,3,"Non, je n’ai pas la certitude d’avoir été en contact avec au moins une personne",A3_1
+214,4,(NR),A3_1
+215,1,Oui,A3BIS
+216,2,Non,A3BIS
+217,3,(NR),A3BIS
+218,1,Oui,A4
+219,2,Non,A4
+220,3,(NR),A4
+221,1,Oui,A6_0
+222,2,Non,A6_0
+223,3,(NR),A6_0
+224,1,Oui,A6_1
+225,2,Non,A6_1
+226,3,(NR),A6_1
+227,1,Oui,A6_2
+228,2,Non,A6_2
+229,3,(NR),A6_2
+230,1,Oui,A6_3
+231,2,Non,A6_3
+232,3,(NR),A6_3
+233,1,Oui,A6_4
+234,2,Non,A6_4
+235,3,(NR),A6_4
+236,1,Oui,A6_5
+237,2,Non,A6_5
+238,3,(NR),A6_5
+239,1,Oui,A6_6
+240,2,Non,A6_6
+241,3,(NR),A6_6
+242,1,Oui,A6_7
+243,2,Non,A6_7
+244,3,(NR),A6_7
+245,1,Oui,A6_8
+246,2,Non,A6_8
+247,3,(NR),A6_8
+248,1,Oui,A6_9
+249,2,Non,A6_9
+250,3,(NR),A6_9
+251,1,Oui,A6_10
+252,2,Non,A6_10
+253,3,(NR),A6_10
+254,1,Tout le temps,B2_0
+255,2,Souvent,B2_0
+256,3,Parfois,B2_0
+257,4,Rarement,B2_0
+258,5,Jamais même si je pourrais le faire,B2_0
+259,6,Jamais car je n’ai pas la possibilité de le faire,B2_0
+260,7,(NR),B2_0
+261,1,Tout le temps,B2_1
+262,2,Souvent,B2_1
+263,3,Parfois,B2_1
+264,4,Rarement,B2_1
+265,5,Jamais même si je pourrais le faire,B2_1
+266,6,Jamais car je n’ai pas la possibilité de le faire,B2_1
+267,7,(NR),B2_1
+268,1,Tout le temps,B2_2
+269,2,Souvent,B2_2
+270,3,Parfois,B2_2
+271,4,Rarement,B2_2
+272,5,Jamais même si je pourrais le faire,B2_2
+273,6,Jamais car je n’ai pas la possibilité de le faire,B2_2
+274,7,(NR),B2_2
+275,1,Tout le temps,B2_3
+276,2,Souvent,B2_3
+277,3,Parfois,B2_3
+278,4,Rarement,B2_3
+279,5,Jamais même si je pourrais le faire,B2_3
+280,6,Jamais car je n’ai pas la possibilité de le faire,B2_3
+281,7,(NR),B2_3
+282,1,Tout le temps,B2_4
+283,2,Souvent,B2_4
+284,3,Parfois,B2_4
+285,4,Rarement,B2_4
+286,5,Jamais même si je pourrais le faire,B2_4
+287,6,Jamais car je n’ai pas la possibilité de le faire,B2_4
+288,7,(NR),B2_4
+289,1,Tout le temps,B2_5
+290,2,Souvent,B2_5
+291,3,Parfois,B2_5
+292,4,Rarement,B2_5
+293,5,Jamais même si je pourrais le faire,B2_5
+294,6,Jamais car je n’ai pas la possibilité de le faire,B2_5
+295,7,(NR),B2_5
+296,1,Tout le temps,B2_6
+297,2,Souvent,B2_6
+298,3,Parfois,B2_6
+299,4,Rarement,B2_6
+300,5,Jamais même si je pourrais le faire,B2_6
+301,6,Jamais car je n’ai pas la possibilité de le faire,B2_6
+302,7,(NR),B2_6
+303,1,Tout le temps,B2_7
+304,2,Souvent,B2_7
+305,3,Parfois,B2_7
+306,4,Rarement,B2_7
+307,5,Jamais même si je pourrais le faire,B2_7
+308,6,Jamais car je n’ai pas la possibilité de le faire,B2_7
+309,7,(NR),B2_7
+310,1,Tout le temps,B2_8
+311,2,Souvent,B2_8
+312,3,Parfois,B2_8
+313,4,Rarement,B2_8
+314,5,Jamais même si je pourrais le faire,B2_8
+315,6,Jamais car je n’ai pas la possibilité de le faire,B2_8
+316,7,(NR),B2_8
+317,1,Insuffisance pondérale (inférieur à 18.5),C1C2
+318,2,Poids normal (entre 18.5 et 25),C1C2
+319,3,Surpoids (entre 25 et 30),C1C2
+320,4,Obésité (supérieur à 30),C1C2
+321,5,(NR),C1C2
+322,1,Oui,C3
+323,2,Non,C3
+324,3,(NR),C3
+325,1,Oui,C4_0
+326,2,Non,C4_0
+327,3,Nsp,C4_0
+328,1,Oui,C4_1
+329,2,Non,C4_1
+330,3,Nsp,C4_1
+331,1,Oui,C4_2
+332,2,Non,C4_2
+333,3,Nsp,C4_2
+334,1,Oui,C4_3
+335,2,Non,C4_3
+336,3,Nsp,C4_3
+337,1,Oui,C4_4
+338,2,Non,C4_4
+339,3,Nsp,C4_4
+340,1,Oui,C4_5
+341,2,Non,C4_5
+342,3,Nsp,C4_5
+343,1,Oui,C4_6
+344,2,Non,C4_6
+345,3,Nsp,C4_6
+346,1,Oui,C4_7
+347,2,Non,C4_7
+348,3,Nsp,C4_7
+349,1,Presque tous les jours,C51
+350,2,Plus de la moitié des jours,C51
+351,3,Plusieurs jours,C51
+352,4,Jamais,C51
+353,5,(NR),C51
+354,1,Presque tous les jours,C52
+355,2,Plus de la moitié des jours,C52
+356,3,Plusieurs jours,C52
+357,4,Jamais,C52
+358,5,(NR),C52
+359,1,Presque tous les jours,C53
+360,2,Plus de la moitié des jours,C53
+361,3,Plusieurs jours,C53
+362,4,Jamais,C53
+363,5,(NR),C53
+364,1,Presque tous les jours,C54
+365,2,Plus de la moitié des jours,C54
+366,3,Plusieurs jours,C54
+367,4,Jamais,C54
+368,5,(NR),C54
+369,1,Je travaille hors de mon domicile,C6_0
+370,2,Je travaille à domicile (comme d’habitude ou comme je le faisais déjà avant le confinement),C6_0
+371,3,Je travaille à distance (télétravail),C6_0
+372,4,Je suis en arrêt maladie,C6_0
+373,5,Je suis en chômage partiel,C6_0
+374,6,Je suis en congé,C6_0
+375,7,(NR),C6_0
+376,8,Je travaille dans le secteur de la santé,C6_0
+377,1,Je travaille hors de mon domicile,C6_1
+378,2,Je travaille à domicile (comme d’habitude ou comme je le faisais déjà avant le confinement),C6_1
+379,3,Je travaille à distance (télétravail),C6_1
+380,4,Je suis en arrêt maladie,C6_1
+381,5,Je suis en chômage partiel,C6_1
+382,6,Je suis en congé,C6_1
+383,7,(NR),C6_1
+384,8,Je travaille dans le secteur de la santé,C6_1
+385,1,Je travaille hors de mon domicile,C6_2
+386,2,Je travaille à domicile (comme d’habitude ou comme je le faisais déjà avant le confinement),C6_2
+387,3,Je travaille à distance (télétravail),C6_2
+388,4,Je suis en arrêt maladie,C6_2
+389,5,Je suis en chômage partiel,C6_2
+390,6,Je suis en congé,C6_2
+391,7,(NR),C6_2
+392,8,Je travaille dans le secteur de la santé,C6_2
+393,1,Je travaille hors de mon domicile,C6_3
+394,2,Je travaille à domicile (comme d’habitude ou comme je le faisais déjà avant le confinement),C6_3
+395,3,Je travaille à distance (télétravail),C6_3
+396,4,Je suis en arrêt maladie,C6_3
+397,5,Je suis en chômage partiel,C6_3
+398,6,Je suis en congé,C6_3
+399,7,(NR),C6_3
+400,8,Je travaille dans le secteur de la santé,C6_3
+401,1,Oui,C7
+402,2,Non,C7
+403,1,Ain,C7DEP
+404,2,Aisne,C7DEP
+405,3,Allier,C7DEP
+406,4,Alpes-de-Haute-Provence,C7DEP
+407,5,Hautes-Alpes,C7DEP
+408,6,Alpes-Maritimes,C7DEP
+409,7,Ardèche,C7DEP
+410,8,Ardennes,C7DEP
+411,9,Ariège,C7DEP
+412,10,Aube,C7DEP
+413,11,Aude,C7DEP
+414,12,Aveyron,C7DEP
+415,13,Bouches-du-Rhône,C7DEP
+416,14,Calvados,C7DEP
+417,15,Cantal,C7DEP
+418,16,Charente,C7DEP
+419,17,Charente-Maritime,C7DEP
+420,18,Cher,C7DEP
+421,19,Corrèze,C7DEP
+422,20,Corse-du-Sud,C7DEP
+423,21,Côte-d'Or,C7DEP
+424,22,Côtes-d'Armor,C7DEP
+425,23,Creuse,C7DEP
+426,24,Dordogne,C7DEP
+427,25,Doubs,C7DEP
+428,26,Drôme,C7DEP
+429,27,Eure,C7DEP
+430,28,Eure-et-Loir,C7DEP
+431,29,Finistère,C7DEP
+432,30,Gard,C7DEP
+433,31,Haute-Garonne,C7DEP
+434,32,Gers,C7DEP
+435,33,Gironde,C7DEP
+436,34,Hérault,C7DEP
+437,35,Ille-et-Vilaine,C7DEP
+438,36,Indre,C7DEP
+439,37,Indre-et-Loire,C7DEP
+440,38,Isère,C7DEP
+441,39,Jura,C7DEP
+442,40,Landes,C7DEP
+443,41,Loir-et-Cher,C7DEP
+444,42,Loire,C7DEP
+445,43,Haute-Loire,C7DEP
+446,44,Loire-Atlantique,C7DEP
+447,45,Loiret,C7DEP
+448,46,Lot,C7DEP
+449,47,Lot-et-Garonne,C7DEP
+450,48,Lozère,C7DEP
+451,49,Maine-et-Loire,C7DEP
+452,50,Manche,C7DEP
+453,51,Marne,C7DEP
+454,52,Haute-Marne,C7DEP
+455,53,Mayenne,C7DEP
+456,54,Meurthe-et-Moselle,C7DEP
+457,55,Meuse,C7DEP
+458,56,Morbihan,C7DEP
+459,57,Moselle,C7DEP
+460,58,Nièvre,C7DEP
+461,59,Nord,C7DEP
+462,60,Oise,C7DEP
+463,61,Orne,C7DEP
+464,62,Pas-de-Calais,C7DEP
+465,63,Puy-de-Dôme,C7DEP
+466,64,Pyrénées-Atlantiques,C7DEP
+467,65,Hautes-Pyrénées,C7DEP
+468,66,Pyrénées-Orientales,C7DEP
+469,67,Bas-Rhin,C7DEP
+470,68,Haut-Rhin,C7DEP
+471,69,Rhône,C7DEP
+472,70,Haute-Saône,C7DEP
+473,71,Saône-et-Loire,C7DEP
+474,72,Sarthe,C7DEP
+475,73,Savoie,C7DEP
+476,74,Haute-Savoie,C7DEP
+477,75,Paris,C7DEP
+478,76,Seine-Maritime,C7DEP
+479,77,Seine-et-Marne,C7DEP
+480,78,Yvelines,C7DEP
+481,79,Deux-Sèvres,C7DEP
+482,80,Somme,C7DEP
+483,81,Tarn,C7DEP
+484,82,Tarn-et-Garonne,C7DEP
+485,83,Var,C7DEP
+486,84,Vaucluse,C7DEP
+487,85,Vendée,C7DEP
+488,86,Vienne,C7DEP
+489,87,Haute-Vienne,C7DEP
+490,88,Vosges,C7DEP
+491,89,Yonne,C7DEP
+492,90,Territoire de Belfort,C7DEP
+493,91,Essonne,C7DEP
+494,92,Hauts-de-Seine,C7DEP
+495,93,Seine-Saint-Denis,C7DEP
+496,94,Val-de-Marne,C7DEP
+497,95,Val-d'Oise,C7DEP
+498,96,Haute-Corse,C7DEP
+499,1,Ile-de-France,C7REG12
+500,2,Centre-Val de Loire,C7REG12
+501,3,Bourgogne-Franche-Comté,C7REG12
+502,4,Normandie,C7REG12
+503,5,Hauts-de-France,C7REG12
+504,6,Grand-Est,C7REG12
+505,7,Pays de la Loire,C7REG12
+506,8,Bretagne,C7REG12
+507,9,Nouvelle Aquitaine,C7REG12
+508,10,Occitanie,C7REG12
+509,11,Auvergne-Rhône-Alpes,C7REG12
+510,12,PACA + Corse,C7REG12
+511,13,(NR),C7REG12
+512,1,Sans diplôme,C10
+513,2,"Certificat de formation générale (CFG), Certificat d’études primaires, Diplôme national du brevet",C10
+514,3,"Certificat d’aptitude professionnelle (CAP), Brevet d’études professionnelles (BEP)",C10
+515,4,Baccalauréat ou diplôme équivalent,C10
+516,5,Bac +1 ou 2,C10
+517,6,Bac +3 ou plus,C10
+518,7,Autre,C10
+519,8,(NR),C10
+520,1,Scientifique,C11
+521,2,Juridique ou commerciale,C11
+522,3,Médicale ou para-médicale,C11
+523,4,Littéraire,C11
+524,5,Autre,C11
+525,6,(NR),C11
+526,1,Très à gauche,D60A
+527,2,A gauche,D60A
+528,3,Au centre,D60A
+529,4,A droite,D60A
+530,5,Très à droite,D60A
+531,6,Ni à gauche ni à droite,D60A
+532,7,(NR),D60A
+533,1,Les médecins devraient attendre les résultats des essais scientifiques avant d’administrer les médicaments susceptibles de combattre le virus,D60
+534,2,Les médecins doivent pouvoir prescrire des médicaments susceptibles de combattre le virus même si leur efficacité n’a pas été prouvée scientifiquement,D60
+535,3,(NR),D60
+536,1,C’est aux scientifiques de dire quelles mesures doivent être prises pour lutter contre l’épidémie et le gouvernement doit les appliquer le plus strictement possible,D61
+537,2,"C’est au gouvernement seul de décider des mesures qui doivent être prises pour lutter contre l’épidémie, même si elles ne suivent pas les mesures préconisées par les scientifiques",D61
+538,3,(NR),D61
+539,1,Tout à fait d’accord,D62_0
+540,2,Plutôt d’accord,D62_0
+541,3,Plutôt pas d’accord,D62_0
+542,4,Pas d’accord du tout,D62_0
+543,5,(NR),D62_0
+544,1,Tout à fait d’accord,D62_1
+545,2,Plutôt d’accord,D62_1
+546,3,Plutôt pas d’accord,D62_1
+547,4,Pas d’accord du tout,D62_1
+548,5,(NR),D62_1
+549,1,Tout à fait d’accord,D62_2
+550,2,Plutôt d’accord,D62_2
+551,3,Plutôt pas d’accord,D62_2
+552,4,Pas d’accord du tout,D62_2
+553,5,(NR),D62_2
+554,1,On n'a pas développé suffisamment la recherche médicale,D63
+555,2,On n’a pas suffisamment respecté le monde naturel,D63
+556,3,(NR),D63
+557,1,D65,ALEAD65
+558,2,D66,ALEAD65
+559,1,Plus confiance dans la science qu'auparavant,D65
+560,2,Moins confiance dans la science qu'auparavant,D65
+561,3,Ni plus ni moins confiance dans la science qu'auparavant,D65
+562,4,(NR),D65
+563,1,Plus confiance dans les scientifiques qu'auparavant,D66
+564,2,Moins confiance dans les scientifiques qu'auparavant,D66
+565,3,Ni plus ni moins confiance dans les scientifiques qu'auparavant,D66
+566,4,(NR),D66
+567,1,D70,ALEAD70
+568,2,D71,ALEAD70
+569,1,"Oui, certainement",D70
+570,2,"Oui, probablement",D70
+571,3,"Non, probablement pas",D70
+572,4,"Non, certainement pas",D70
+573,5,Nsp,D70
+574,1,"Oui, certainement",D71
+575,2,"Oui, probablement",D71
+576,3,"Non, probablement pas",D71
+577,4,"Non, certainement pas",D71
+578,5,Nsp,D71
+579,1,On peut faire confiance à la plupart des gens,D67
+580,2,On n’est jamais assez prudent quand on a affaire aux autres,D67
+581,3,(NR),D67
+582,1,Très confiant,D68_0
+583,2,Plutôt confiant,D68_0
+584,3,Plutôt pas confiant,D68_0
+585,4,Pas du tout confiant,D68_0
+586,5,(NR),D68_0
+587,1,Très confiant,D68_1
+588,2,Plutôt confiant,D68_1
+589,3,Plutôt pas confiant,D68_1
+590,4,Pas du tout confiant,D68_1
+591,5,(NR),D68_1
+592,1,Très confiant,D68_2
+593,2,Plutôt confiant,D68_2
+594,3,Plutôt pas confiant,D68_2
+595,4,Pas du tout confiant,D68_2
+596,5,(NR),D68_2
+597,1,Très confiant,D68_3
+598,2,Plutôt confiant,D68_3
+599,3,Plutôt pas confiant,D68_3
+600,4,Pas du tout confiant,D68_3
+601,5,(NR),D68_3
+602,1,Très confiant,D68_4
+603,2,Plutôt confiant,D68_4
+604,3,Plutôt pas confiant,D68_4
+605,4,Pas du tout confiant,D68_4
+606,5,(NR),D68_4
+607,1,Très confiant,D68_5
+608,2,Plutôt confiant,D68_5
+609,3,Plutôt pas confiant,D68_5
+610,4,Pas du tout confiant,D68_5
+611,5,(NR),D68_5
+612,1,Très confiant,D68_6
+613,2,Plutôt confiant,D68_6
+614,3,Plutôt pas confiant,D68_6
+615,4,Pas du tout confiant,D68_6
+616,5,(NR),D68_6
+617,1,Très confiant,D68_7
+618,2,Plutôt confiant,D68_7
+619,3,Plutôt pas confiant,D68_7
+620,4,Pas du tout confiant,D68_7
+621,5,(NR),D68_7
+622,1,Très confiant,D68_8
+623,2,Plutôt confiant,D68_8
+624,3,Plutôt pas confiant,D68_8
+625,4,Pas du tout confiant,D68_8
+626,5,(NR),D68_8
+627,1,Systématiquement,D69_0
+628,2,Chaque fois que cela est possible,D69_0
+629,3,Parfois,D69_0
+630,4,Rarement,D69_0
+631,5,Jamais,D69_0
+632,6,(NR),D69_0
+633,1,Systématiquement,D69_1
+634,2,Chaque fois que cela est possible,D69_1
+635,3,Parfois,D69_1
+636,4,Rarement,D69_1
+637,5,Jamais,D69_1
+638,6,(NR),D69_1
+639,1,Systématiquement,D69_2
+640,2,Chaque fois que cela est possible,D69_2
+641,3,Parfois,D69_2
+642,4,Rarement,D69_2
+643,5,Jamais,D69_2
+644,6,(NR),D69_2
+645,1,Systématiquement,D69_3
+646,2,Chaque fois que cela est possible,D69_3
+647,3,Parfois,D69_3
+648,4,Rarement,D69_3
+649,5,Jamais,D69_3
+650,6,(NR),D69_3
+651,1,Systématiquement,D69_4
+652,2,Chaque fois que cela est possible,D69_4
+653,3,Parfois,D69_4
+654,4,Rarement,D69_4
+655,5,Jamais,D69_4
+656,6,(NR),D69_4
+657,1,Systématiquement,D69_5
+658,2,Chaque fois que cela est possible,D69_5
+659,3,Parfois,D69_5
+660,4,Rarement,D69_5
+661,5,Jamais,D69_5
+662,6,(NR),D69_5
+663,1,Systématiquement,D69_6
+664,2,Chaque fois que cela est possible,D69_6
+665,3,Parfois,D69_6
+666,4,Rarement,D69_6
+667,5,Jamais,D69_6
+668,6,(NR),D69_6
+669,1,Systématiquement,D69_7
+670,2,Chaque fois que cela est possible,D69_7
+671,3,Parfois,D69_7
+672,4,Rarement,D69_7
+673,5,Jamais,D69_7
+674,6,(NR),D69_7
